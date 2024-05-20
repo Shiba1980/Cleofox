@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiba1980
+- 👋 Hi, I’m Cleofox
 - 👀 I’m interested in coding and building my own website or blog
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on sharing/reviewing codes and discussing ideas
